@@ -89918,7 +89918,7 @@ $S:606}
 A.tS.prototype={
 ev(a,b){return B.K_}}
 A.aCp.prototype={
-$1(a){return"https://amoureux-lin.github.io/game_xxl/"},
+$1(a){return"https://amoureux-lin.github.io/game_example/"},
 $S:216}
 A.Ah.prototype={
 av(){var s=null
